@@ -3,7 +3,7 @@ Nation Electronics Windows 10 IoT Core Libraries
 
 C# demo codes to work with Raspberry Pi expansion boards from http://www.nationelectronics.com
 
-To download to your Raspberry Pi type in terminal: 
+To download to your Raspberry Pi type in a PowerShell terminal: 
 
 ```
 git clone https://github.com/nationelectronics/nationelectronics_windows_IoT.git
